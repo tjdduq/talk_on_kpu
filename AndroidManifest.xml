@@ -24,6 +24,7 @@
         </activity>
         <activity android:name="AfterLogin"></activity>
         <activity android:name="CustomDialog"></activity>
+        <activity android:name="Room"></activity>
     </application>
 
 </manifest>

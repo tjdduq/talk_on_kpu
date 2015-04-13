@@ -39,8 +39,7 @@ public class AfterLogin extends SherlockActivity{
 			
 				// Toast.makeText(getApplicationContext(), al.get(position)+ " ", Toast.LENGTH_SHORT).show();
 				
-				CustomDialog dialog  = new CustomDialog(AfterLogin.this,al.get(position));
-				
+				CustomDialog dialog  = new CustomDialog(AfterLogin.this,al.get(position),id);
 				dialog.show();
 				
 				
