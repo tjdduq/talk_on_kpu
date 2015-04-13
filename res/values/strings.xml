@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TalkOn</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!-- main page  -->
+    <string name= "title">TalkOn</string>
+    <string name= "email">email</string>
+    <string name= "password">*****</string>
+    <string name= "login">로그인</string>
+    <string name= "non_member">비회원 참가자</string>
+    <string name= "help">도움이 필요하세요?</string>
+    <string name= "signup">회원가입</string>
+    
+
+</resources>
